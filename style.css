@@ -1,0 +1,14 @@
+container {
+    /* tells the computer we are using flexboxes */
+    display: flex;
+    /* stacks the flex items vertically (default is horizontal) */
+    flex-direction: column;
+}
+
+h1 {
+    font-family: 'Arimo';
+    text-align: center;
+    color: #8dd03a;         /* oh yeah brat green */
+    font-size: 150px;
+    font-weight: bold;
+}
